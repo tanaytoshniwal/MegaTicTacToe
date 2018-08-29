@@ -1,8 +1,0 @@
-{
-  "name": "MegaTicTacToe",
-  "integrations": {
-    "cordova": {}
-  },
-  "type": "ionic-angular",
-  "pro_id": "40624ac8"
-}
