@@ -66,7 +66,8 @@
                             android:layout_margin="1dp"
                             android:background="#cccccc"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
 
                         <Button
                             android:id="@+id/b101"
@@ -75,7 +76,8 @@
                             android:layout_margin="1dp"
                             android:background="#cccccc"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
 
                         <Button
                             android:id="@+id/b102"
@@ -84,7 +86,8 @@
                             android:layout_margin="1dp"
                             android:background="#cccccc"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
                     </TableRow>
 
                     <TableRow>
@@ -96,7 +99,8 @@
                             android:layout_margin="1dp"
                             android:background="#cccccc"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
 
                         <Button
                             android:id="@+id/b111"
@@ -105,7 +109,8 @@
                             android:layout_margin="1dp"
                             android:background="#cccccc"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
 
                         <Button
                             android:id="@+id/b112"
@@ -114,7 +119,8 @@
                             android:layout_margin="1dp"
                             android:background="#cccccc"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
                     </TableRow>
 
                     <TableRow>
@@ -126,7 +132,8 @@
                             android:layout_margin="1dp"
                             android:background="#cccccc"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
 
                         <Button
                             android:id="@+id/b121"
@@ -135,7 +142,8 @@
                             android:layout_margin="1dp"
                             android:background="#cccccc"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
 
                         <Button
                             android:id="@+id/b122"
@@ -144,7 +152,8 @@
                             android:layout_margin="1dp"
                             android:background="#cccccc"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
                     </TableRow>
                 </TableLayout>
                 <!--2-->
@@ -173,7 +182,8 @@
                             android:layout_margin="1dp"
                             android:background="#555555"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
 
                         <Button
                             android:id="@+id/b201"
@@ -183,7 +193,8 @@
                             android:layout_margin="1dp"
                             android:background="#555555"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
 
                         <Button
                             android:id="@+id/b202"
@@ -193,7 +204,8 @@
                             android:layout_margin="1dp"
                             android:background="#555555"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
                     </TableRow>
 
                     <TableRow>
@@ -206,7 +218,8 @@
                             android:layout_margin="1dp"
                             android:background="#555555"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
 
                         <Button
                             android:id="@+id/b211"
@@ -216,7 +229,8 @@
                             android:layout_margin="1dp"
                             android:background="#555555"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
 
                         <Button
                             android:id="@+id/b212"
@@ -226,7 +240,8 @@
                             android:layout_margin="1dp"
                             android:background="#555555"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
                     </TableRow>
 
                     <TableRow>
@@ -239,7 +254,8 @@
                             android:layout_margin="1dp"
                             android:background="#555555"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
 
                         <Button
                             android:id="@+id/b221"
@@ -249,7 +265,8 @@
                             android:layout_margin="1dp"
                             android:background="#555555"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
 
                         <Button
                             android:id="@+id/b222"
@@ -259,7 +276,8 @@
                             android:layout_margin="1dp"
                             android:background="#555555"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
                     </TableRow>
                 </TableLayout>
                 <!--3-->
@@ -288,7 +306,8 @@
                             android:layout_margin="1dp"
                             android:background="#cccccc"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
 
                         <Button
                             android:id="@+id/b301"
@@ -298,7 +317,8 @@
                             android:layout_margin="1dp"
                             android:background="#cccccc"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
 
                         <Button
                             android:id="@+id/b302"
@@ -308,7 +328,8 @@
                             android:layout_margin="1dp"
                             android:background="#cccccc"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
                     </TableRow>
 
                     <TableRow>
@@ -321,7 +342,8 @@
                             android:layout_margin="1dp"
                             android:background="#cccccc"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
 
                         <Button
                             android:id="@+id/b311"
@@ -331,7 +353,8 @@
                             android:layout_margin="1dp"
                             android:background="#cccccc"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
 
                         <Button
                             android:id="@+id/b312"
@@ -341,7 +364,8 @@
                             android:layout_margin="1dp"
                             android:background="#cccccc"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
                     </TableRow>
 
                     <TableRow>
@@ -354,7 +378,8 @@
                             android:layout_margin="1dp"
                             android:background="#cccccc"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
 
                         <Button
                             android:id="@+id/b321"
@@ -364,7 +389,8 @@
                             android:layout_margin="1dp"
                             android:background="#cccccc"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
 
                         <Button
                             android:id="@+id/b322"
@@ -374,7 +400,8 @@
                             android:layout_margin="1dp"
                             android:background="#cccccc"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
                     </TableRow>
                 </TableLayout>
             </TableRow>
@@ -408,7 +435,8 @@
                             android:layout_margin="1dp"
                             android:background="#555555"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
 
                         <Button
                             android:id="@+id/b401"
@@ -418,7 +446,8 @@
                             android:layout_margin="1dp"
                             android:background="#555555"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
 
                         <Button
                             android:id="@+id/b402"
@@ -428,7 +457,8 @@
                             android:layout_margin="1dp"
                             android:background="#555555"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
                     </TableRow>
 
                     <TableRow>
@@ -441,7 +471,8 @@
                             android:layout_margin="1dp"
                             android:background="#555555"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
 
                         <Button
                             android:id="@+id/b411"
@@ -451,7 +482,8 @@
                             android:layout_margin="1dp"
                             android:background="#555555"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
 
                         <Button
                             android:id="@+id/b412"
@@ -461,7 +493,8 @@
                             android:layout_margin="1dp"
                             android:background="#555555"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
                     </TableRow>
 
                     <TableRow>
@@ -474,7 +507,8 @@
                             android:layout_margin="1dp"
                             android:background="#555555"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
 
                         <Button
                             android:id="@+id/b421"
@@ -484,7 +518,8 @@
                             android:layout_margin="1dp"
                             android:background="#555555"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
 
                         <Button
                             android:id="@+id/b422"
@@ -494,7 +529,8 @@
                             android:layout_margin="1dp"
                             android:background="#555555"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
                     </TableRow>
                 </TableLayout>
                 <!--2-->
@@ -523,7 +559,8 @@
                             android:layout_margin="1dp"
                             android:background="#cccccc"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
 
                         <Button
                             android:id="@+id/b501"
@@ -533,7 +570,8 @@
                             android:layout_margin="1dp"
                             android:background="#cccccc"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
 
                         <Button
                             android:id="@+id/b502"
@@ -543,7 +581,8 @@
                             android:layout_margin="1dp"
                             android:background="#cccccc"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
                     </TableRow>
 
                     <TableRow>
@@ -556,7 +595,8 @@
                             android:layout_margin="1dp"
                             android:background="#cccccc"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
 
                         <Button
                             android:id="@+id/b511"
@@ -566,7 +606,8 @@
                             android:layout_margin="1dp"
                             android:background="#cccccc"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
 
                         <Button
                             android:id="@+id/b512"
@@ -576,7 +617,8 @@
                             android:layout_margin="1dp"
                             android:background="#cccccc"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
                     </TableRow>
 
                     <TableRow>
@@ -589,7 +631,8 @@
                             android:layout_margin="1dp"
                             android:background="#cccccc"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
 
                         <Button
                             android:id="@+id/b521"
@@ -599,7 +642,8 @@
                             android:layout_margin="1dp"
                             android:background="#cccccc"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
 
                         <Button
                             android:id="@+id/b522"
@@ -609,7 +653,8 @@
                             android:layout_margin="1dp"
                             android:background="#cccccc"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
                     </TableRow>
                 </TableLayout>
                 <!--3-->
@@ -638,7 +683,8 @@
                             android:layout_margin="1dp"
                             android:background="#555555"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
 
                         <Button
                             android:id="@+id/b601"
@@ -648,7 +694,8 @@
                             android:layout_margin="1dp"
                             android:background="#555555"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
 
                         <Button
                             android:id="@+id/b602"
@@ -658,7 +705,8 @@
                             android:layout_margin="1dp"
                             android:background="#555555"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
                     </TableRow>
 
                     <TableRow>
@@ -671,7 +719,8 @@
                             android:layout_margin="1dp"
                             android:background="#555555"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
 
                         <Button
                             android:id="@+id/b611"
@@ -681,7 +730,8 @@
                             android:layout_margin="1dp"
                             android:background="#555555"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
 
                         <Button
                             android:id="@+id/b612"
@@ -691,7 +741,8 @@
                             android:layout_margin="1dp"
                             android:background="#555555"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
                     </TableRow>
 
                     <TableRow>
@@ -704,7 +755,8 @@
                             android:layout_margin="1dp"
                             android:background="#555555"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
 
                         <Button
                             android:id="@+id/b621"
@@ -714,7 +766,8 @@
                             android:layout_margin="1dp"
                             android:background="#555555"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
 
                         <Button
                             android:id="@+id/b622"
@@ -724,7 +777,8 @@
                             android:layout_margin="1dp"
                             android:background="#555555"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
                     </TableRow>
                 </TableLayout>
             </TableRow>
@@ -758,7 +812,8 @@
                             android:layout_margin="1dp"
                             android:background="#cccccc"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
 
                         <Button
                             android:id="@+id/b701"
@@ -768,7 +823,8 @@
                             android:layout_margin="1dp"
                             android:background="#cccccc"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
 
                         <Button
                             android:id="@+id/b702"
@@ -778,7 +834,8 @@
                             android:layout_margin="1dp"
                             android:background="#cccccc"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
                     </TableRow>
 
                     <TableRow>
@@ -791,7 +848,8 @@
                             android:layout_margin="1dp"
                             android:background="#cccccc"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
 
                         <Button
                             android:id="@+id/b711"
@@ -801,7 +859,8 @@
                             android:layout_margin="1dp"
                             android:background="#cccccc"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
 
                         <Button
                             android:id="@+id/b712"
@@ -811,7 +870,8 @@
                             android:layout_margin="1dp"
                             android:background="#cccccc"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
                     </TableRow>
 
                     <TableRow>
@@ -824,7 +884,8 @@
                             android:layout_margin="1dp"
                             android:background="#cccccc"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
 
                         <Button
                             android:id="@+id/b721"
@@ -834,7 +895,8 @@
                             android:layout_margin="1dp"
                             android:background="#cccccc"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
 
                         <Button
                             android:id="@+id/b722"
@@ -844,7 +906,8 @@
                             android:layout_margin="1dp"
                             android:background="#cccccc"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
                     </TableRow>
                 </TableLayout>
                 <!--2-->
@@ -873,7 +936,8 @@
                             android:layout_margin="1dp"
                             android:background="#555555"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
 
                         <Button
                             android:id="@+id/b801"
@@ -883,7 +947,8 @@
                             android:layout_margin="1dp"
                             android:background="#555555"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
 
                         <Button
                             android:id="@+id/b802"
@@ -893,7 +958,8 @@
                             android:layout_margin="1dp"
                             android:background="#555555"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
                     </TableRow>
 
                     <TableRow>
@@ -906,7 +972,8 @@
                             android:layout_margin="1dp"
                             android:background="#555555"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
 
                         <Button
                             android:id="@+id/b811"
@@ -916,7 +983,8 @@
                             android:layout_margin="1dp"
                             android:background="#555555"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
 
                         <Button
                             android:id="@+id/b812"
@@ -926,7 +994,8 @@
                             android:layout_margin="1dp"
                             android:background="#555555"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
                     </TableRow>
 
                     <TableRow>
@@ -939,7 +1008,8 @@
                             android:layout_margin="1dp"
                             android:background="#555555"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
 
                         <Button
                             android:id="@+id/b821"
@@ -949,7 +1019,8 @@
                             android:layout_margin="1dp"
                             android:background="#555555"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
 
                         <Button
                             android:id="@+id/b822"
@@ -959,7 +1030,8 @@
                             android:layout_margin="1dp"
                             android:background="#555555"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
                     </TableRow>
                 </TableLayout>
                 <!--3-->
@@ -988,7 +1060,8 @@
                             android:layout_margin="1dp"
                             android:background="#cccccc"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
 
                         <Button
                             android:id="@+id/b901"
@@ -998,7 +1071,8 @@
                             android:layout_margin="1dp"
                             android:background="#cccccc"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
 
                         <Button
                             android:id="@+id/b902"
@@ -1008,7 +1082,8 @@
                             android:layout_margin="1dp"
                             android:background="#cccccc"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
                     </TableRow>
 
                     <TableRow>
@@ -1021,7 +1096,8 @@
                             android:layout_margin="1dp"
                             android:background="#cccccc"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
 
                         <Button
                             android:id="@+id/b911"
@@ -1031,7 +1107,8 @@
                             android:layout_margin="1dp"
                             android:background="#cccccc"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
 
                         <Button
                             android:id="@+id/b912"
@@ -1041,7 +1118,8 @@
                             android:layout_margin="1dp"
                             android:background="#cccccc"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
                     </TableRow>
 
                     <TableRow>
@@ -1054,7 +1132,8 @@
                             android:layout_margin="1dp"
                             android:background="#cccccc"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
 
                         <Button
                             android:id="@+id/b921"
@@ -1064,7 +1143,8 @@
                             android:layout_margin="1dp"
                             android:background="#cccccc"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000" />
 
                         <Button
                             android:id="@+id/b922"
@@ -1074,7 +1154,9 @@
                             android:layout_margin="1dp"
                             android:background="#cccccc"
                             android:gravity="center"
-                            android:textColor="#FFFFFF" />
+                            android:textSize="16dp"
+                            android:textColor="#000"
+                            />
                     </TableRow>
                 </TableLayout>
             </TableRow>
@@ -1118,6 +1200,7 @@
         app:layout_constraintTop_toBottomOf="@+id/linearLayout" />
 
     <at.markushi.ui.CircleButton
+        android:id="@+id/undo"
         android:layout_width="69dip"
         android:layout_height="69dip"
         android:layout_marginStart="8dp"
