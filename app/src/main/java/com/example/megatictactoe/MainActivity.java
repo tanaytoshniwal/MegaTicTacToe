@@ -48,8 +48,28 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         }
         else {
             updateLayout(v.getId());
+            disable_switch();
             chance--;
             result(v.getId());
+        }
+    }
+
+    private void disable_switch(){
+        for(int i=0;i<81;i++){
+            b[i].setEnabled(false);
+            b[i].setBackgroundColor(Color.DKGRAY);
+        }
+        if(selected == -1){
+            for(int i=0;i<81;i++){
+                b[i].setEnabled(true);
+                b[i].setBackgroundColor(Color.parseColor("#cccccc"));
+            }
+        }
+        else{
+            for(int i=0;i<9;i++){
+                b[selected * 9 + i].setEnabled(true);
+                b[selected * 9 + i].setBackgroundColor(Color.parseColor("#cccccc"));
+            }
         }
     }
 
