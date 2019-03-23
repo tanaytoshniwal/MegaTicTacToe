@@ -59,6 +59,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             b[i].setEnabled(false);
             b[i].setBackgroundColor(Color.DKGRAY);
         }
+        boolean full = true;
         if(selected == -1){
             for(int i=0;i<81;i++){
                 b[i].setEnabled(true);
@@ -67,8 +68,18 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         }
         else{
             for(int i=0;i<9;i++){
+                if(b[selected * 9 + i].getText().toString().equals("")) full = false;
                 b[selected * 9 + i].setEnabled(true);
                 b[selected * 9 + i].setBackgroundColor(Color.parseColor("#cccccc"));
+            }
+        }
+        if(full){
+            for(int i=0;i<81;i++){
+                b[i].setEnabled(true);
+                if((i>=9&&i<=17) || (i>=27&&i<=53) || (i>=63&&i<=71))
+                    b[i].setBackgroundColor(Color.parseColor("#555555"));
+                else
+                    b[i].setBackgroundColor(Color.parseColor("#cccccc"));
             }
         }
     }
