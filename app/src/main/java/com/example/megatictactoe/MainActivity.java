@@ -44,7 +44,19 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     @Override
     public void onClick(View v){
         if(v.getId() == R.id.undo){
-            //resetLastMove();
+            final AlertDialog.Builder builder;
+            builder = new AlertDialog.Builder(MainActivity.this).setTitle("Reset the Game?").setMessage("This action will reset the game!")
+                    .setPositiveButton("OK", new DialogInterface.OnClickListener() {
+                        @Override
+                        public void onClick(DialogInterface dialog, int which) {
+                            startActivity(new Intent(MainActivity.this,MainActivity.class));
+                            finish();
+                        }
+                    });
+            final AlertDialog dialog=builder.create();
+            dialog.setCanceledOnTouchOutside(false);
+            dialog.setCancelable(false);
+            dialog.show();
         }
         else {
             updateLayout(v.getId());
