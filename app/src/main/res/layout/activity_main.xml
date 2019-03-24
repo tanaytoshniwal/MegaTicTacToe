@@ -1193,7 +1193,7 @@
         android:textColor="#FF0000"
         android:layout_marginEnd="8dp"
         android:layout_marginRight="8dp"
-        android:text="Current Player: 1"
+        android:text="Current Player: 1(o)"
         android:textSize="24dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

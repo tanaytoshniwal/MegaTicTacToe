@@ -304,13 +304,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             case R.id.b100:{
                 if(flag) {
                     b[0].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[0][0]++;
                 }
                 else {
                     b[0].setText("X");
-                    player.setText("Current Player:1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[0][0]+=2;
                 }
@@ -321,13 +321,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             case R.id.b101:{
                 if(flag) {
                     b[1].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[0][1]++;
                 }
                 else {
                     b[1].setText("X");
-                    player.setText("Current Player:1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[0][1]+=2;
                 }
@@ -338,13 +338,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             case R.id.b102:{
                 if(flag) {
                     b[2].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[0][2]++;
                 }
                 else {
                     b[2].setText("X");
-                    player.setText("Current Player:1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[0][2]+=2;
                 }
@@ -355,13 +355,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             case R.id.b110:{
                 if(flag) {
                     b[3].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[0][3]++;
                 }
                 else {
                     b[3].setText("X");
-                    player.setText("Current Player:1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[0][3]+=2;
                 }
@@ -372,13 +372,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             case R.id.b111:{
                 if(flag) {
                     b[4].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[0][4]++;
                 }
                 else {
                     b[4].setText("X");
-                    player.setText("Current Player:1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[0][4]+=2;
                 }
@@ -389,13 +389,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             case R.id.b112:{
                 if(flag) {
                     b[5].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[0][5]++;
                 }
                 else {
                     b[5].setText("X");
-                    player.setText("Current Player:1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[0][5]+=2;
                 }
@@ -406,13 +406,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             case R.id.b120:{
                 if(flag) {
                     b[6].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[0][6]++;
                 }
                 else {
                     b[6].setText("X");
-                    player.setText("Current Player:1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[0][6]+=2;
                 }
@@ -423,13 +423,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             case R.id.b121:{
                 if(flag) {
                     b[7].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[0][7]++;
                 }
                 else {
                     b[7].setText("X");
-                    player.setText("Current Player:1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[0][7]+=2;
                 }
@@ -440,13 +440,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             case R.id.b122:{
                 if(flag) {
                     b[8].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[0][8]++;
                 }
                 else {
                     b[8].setText("X");
-                    player.setText("Current Player:1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[0][8]+=2;
                 }
@@ -458,13 +458,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             case R.id.b200:{
                 if(flag) {
                     b[9].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[1][0]++;
                 }
                 else {
                     b[9].setText("X");
-                    player.setText("Current Player:1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[1][0]+=2;
                 }
@@ -475,13 +475,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             case R.id.b201:{
                 if(flag) {
                     b[10].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[1][1]++;
                 }
                 else {
                     b[10].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[1][1]+=2;
                 }
@@ -493,13 +493,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 2;
                 if(flag) {
                     b[11].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[1][2]++;
                 }
                 else {
                     b[11].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[1][2]+=2;
                 }
@@ -510,13 +510,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 3;
                 if(flag) {
                     b[12].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[1][3]++;
                 }
                 else {
                     b[12].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[1][3]+=2;
                 }
@@ -527,13 +527,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 4;
                 if(flag) {
                     b[13].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[1][4]++;
                 }
                 else {
                     b[13].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[1][4]+=2;
                 }
@@ -544,13 +544,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 5;
                 if(flag) {
                     b[14].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[1][5]++;
                 }
                 else {
                     b[14].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[1][5]+=2;
                 }
@@ -561,13 +561,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 6;
                 if(flag) {
                     b[15].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[1][6]++;
                 }
                 else {
                     b[15].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[1][6]+=2;
                 }
@@ -578,13 +578,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 7;
                 if(flag) {
                     b[16].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[1][7]++;
                 }
                 else {
                     b[16].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[1][7]+=2;
                 }
@@ -595,13 +595,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 8;
                 if(flag) {
                     b[17].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[1][8]++;
                 }
                 else {
                     b[17].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[1][8]+=2;
                 }
@@ -613,13 +613,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 0;
                 if(flag) {
                     b[18].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[2][0]++;
                 }
                 else {
                     b[18].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[2][0]+=2;
                 }
@@ -630,13 +630,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 1;
                 if(flag) {
                     b[19].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[2][1]++;
                 }
                 else {
                     b[19].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[2][1]+=2;
                 }
@@ -647,13 +647,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 2;
                 if(flag) {
                     b[20].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[2][2]++;
                 }
                 else {
                     b[20].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[2][2]+=2;
                 }
@@ -664,13 +664,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 3;
                 if(flag) {
                     b[21].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[2][3]++;
                 }
                 else {
                     b[21].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[2][3]+=2;
                 }
@@ -681,13 +681,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 4;
                 if(flag) {
                     b[22].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[2][4]++;
                 }
                 else {
                     b[22].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[2][4]+=2;
                 }
@@ -698,13 +698,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 5;
                 if(flag) {
                     b[23].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[2][5]++;
                 }
                 else {
                     b[23].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[2][5]+=2;
                 }
@@ -716,13 +716,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 6;
                 if(flag) {
                     b[24].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[2][6]++;
                 }
                 else {
                     b[24].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[2][6]+=2;
                 }
@@ -733,13 +733,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 7;
                 if(flag) {
                     b[25].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[2][7]++;
                 }
                 else {
                     b[25].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[2][7]+=2;
                 }
@@ -750,13 +750,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 8;
                 if(flag) {
                     b[26].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[2][8]++;
                 }
                 else {
                     b[26].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[2][8]+=2;
                 }
@@ -768,13 +768,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 0;
                 if(flag) {
                     b[27].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[3][0]++;
                 }
                 else {
                     b[27].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[3][0]+=2;
                 }
@@ -785,13 +785,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 1;
                 if(flag) {
                     b[28].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[3][1]++;
                 }
                 else {
                     b[28].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[3][1]+=2;
                 }
@@ -802,13 +802,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 2;
                 if(flag) {
                     b[29].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[3][2]++;
                 }
                 else {
                     b[29].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[3][2]+=2;
                 }
@@ -819,13 +819,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 3;
                 if(flag) {
                     b[30].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[3][3]++;
                 }
                 else {
                     b[30].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[3][3]+=2;
                 }
@@ -836,13 +836,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 4;
                 if(flag) {
                     b[31].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[3][4]++;
                 }
                 else {
                     b[31].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[3][4]+=2;
                 }
@@ -853,13 +853,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 5;
                 if(flag) {
                     b[32].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[3][5]++;
                 }
                 else {
                     b[32].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[3][5]+=2;
                 }
@@ -870,13 +870,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 6;
                 if(flag) {
                     b[33].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[3][6]++;
                 }
                 else {
                     b[33].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[3][6]+=2;
                 }
@@ -887,13 +887,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 7;
                 if(flag) {
                     b[34].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[3][7]++;
                 }
                 else {
                     b[34].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[3][7]+=2;
                 }
@@ -904,13 +904,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 8;
                 if(flag) {
                     b[35].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[3][8]++;
                 }
                 else {
                     b[35].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[3][8]+=2;
                 }
@@ -922,13 +922,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 0;
                 if(flag) {
                     b[36].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[4][0]++;
                 }
                 else {
                     b[36].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[4][0]+=2;
                 }
@@ -939,13 +939,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 1;
                 if(flag) {
                     b[37].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[4][1]++;
                 }
                 else {
                     b[37].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[4][1]+=2;
                 }
@@ -956,13 +956,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 2;
                 if(flag) {
                     b[38].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[4][2]++;
                 }
                 else {
                     b[38].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[4][2]+=2;
                 }
@@ -973,13 +973,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 3;
                 if(flag) {
                     b[39].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[4][3]++;
                 }
                 else {
                     b[39].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[4][3]+=2;
                 }
@@ -990,13 +990,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 4;
                 if(flag) {
                     b[40].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[4][4]++;
                 }
                 else {
                     b[40].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[4][4]+=2;
                 }
@@ -1007,13 +1007,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 5;
                 if(flag) {
                     b[41].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[4][5]++;
                 }
                 else {
                     b[41].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[4][5]+=2;
                 }
@@ -1024,13 +1024,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 6;
                 if(flag) {
                     b[42].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[4][6]++;
                 }
                 else {
                     b[42].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[4][6]+=2;
                 }
@@ -1041,13 +1041,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 7;
                 if(flag) {
                     b[43].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[4][7]++;
                 }
                 else {
                     b[43].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[4][7]+=2;
                 }
@@ -1058,13 +1058,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 8;
                 if(flag) {
                     b[44].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[4][8]++;
                 }
                 else {
                     b[44].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[4][8]+=2;
                 }
@@ -1076,13 +1076,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 0;
                 if(flag) {
                     b[45].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[5][0]++;
                 }
                 else {
                     b[45].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[5][0]+=2;
                 }
@@ -1093,13 +1093,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 1;
                 if(flag) {
                     b[46].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[5][1]++;
                 }
                 else {
                     b[46].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[5][1]+=2;
                 }
@@ -1110,13 +1110,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 2;
                 if(flag) {
                     b[47].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[5][2]++;
                 }
                 else {
                     b[47].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[5][2]+=2;
                 }
@@ -1127,13 +1127,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 3;
                 if(flag) {
                     b[48].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[5][3]++;
                 }
                 else {
                     b[48].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[5][3]+=2;
                 }
@@ -1144,13 +1144,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 4;
                 if(flag) {
                     b[49].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[5][4]++;
                 }
                 else {
                     b[49].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[5][4]+=2;
                 }
@@ -1161,13 +1161,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 5;
                 if(flag) {
                     b[50].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[5][5]++;
                 }
                 else {
                     b[50].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[5][5]+=2;
                 }
@@ -1178,13 +1178,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 6;
                 if(flag) {
                     b[51].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[5][6]++;
                 }
                 else {
                     b[51].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[5][6]+=2;
                 }
@@ -1195,13 +1195,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 7;
                 if(flag) {
                     b[52].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[5][7]++;
                 }
                 else {
                     b[52].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[5][7]+=2;
                 }
@@ -1212,13 +1212,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 8;
                 if(flag) {
                     b[53].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[5][8]++;
                 }
                 else {
                     b[53].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[5][8]+=2;
                 }
@@ -1230,13 +1230,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 0;
                 if(flag) {
                     b[54].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[5][0]++;
                 }
                 else {
                     b[54].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[5][0]+=2;
                 }
@@ -1247,13 +1247,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 1;
                 if(flag) {
                     b[55].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[6][1]++;
                 }
                 else {
                     b[55].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[6][1]+=2;
                 }
@@ -1264,13 +1264,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 2;
                 if(flag) {
                     b[56].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[6][2]++;
                 }
                 else {
                     b[56].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[6][2]+=2;
                 }
@@ -1281,13 +1281,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 3;
                 if(flag) {
                     b[57].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[6][3]++;
                 }
                 else {
                     b[57].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[6][3]+=2;
                 }
@@ -1298,13 +1298,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 4;
                 if(flag) {
                     b[58].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[6][4]++;
                 }
                 else {
                     b[58].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[6][4]+=2;
                 }
@@ -1315,13 +1315,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 5;
                 if(flag) {
                     b[59].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[6][5]++;
                 }
                 else {
                     b[59].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[6][5]+=2;
                 }
@@ -1332,13 +1332,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 6;
                 if(flag) {
                     b[60].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[6][6]++;
                 }
                 else {
                     b[60].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[6][6]+=2;
                 }
@@ -1349,13 +1349,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 7;
                 if(flag) {
                     b[61].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[6][7]++;
                 }
                 else {
                     b[61].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[6][7]+=2;
                 }
@@ -1366,13 +1366,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 8;
                 if(flag) {
                     b[62].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[6][8]++;
                 }
                 else {
                     b[62].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[6][8]+=2;
                 }
@@ -1384,13 +1384,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 0;
                 if(flag) {
                     b[63].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[7][0]++;
                 }
                 else {
                     b[63].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[7][0]+=2;
                 }
@@ -1401,13 +1401,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 1;
                 if(flag) {
                     b[64].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[7][1]++;
                 }
                 else {
                     b[64].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[7][1]+=2;
                 }
@@ -1418,13 +1418,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 2;
                 if(flag) {
                     b[65].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[7][2]++;
                 }
                 else {
                     b[65].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[7][2]+=2;
                 }
@@ -1435,13 +1435,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 3;
                 if(flag) {
                     b[66].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[7][3]++;
                 }
                 else {
                     b[66].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[7][3]+=2;
                 }
@@ -1452,13 +1452,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 4;
                 if(flag) {
                     b[67].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[7][4]++;
                 }
                 else {
                     b[67].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[7][4]+=2;
                 }
@@ -1469,13 +1469,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 5;
                 if(flag) {
                     b[68].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[7][5]++;
                 }
                 else {
                     b[68].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[7][5]+=2;
                 }
@@ -1486,13 +1486,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 6;
                 if(flag) {
                     b[69].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[7][6]++;
                 }
                 else {
                     b[69].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[7][6]+=2;
                 }
@@ -1503,13 +1503,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 7;
                 if(flag) {
                     b[70].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[7][7]++;
                 }
                 else {
                     b[70].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[7][7]+=2;
                 }
@@ -1520,13 +1520,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 8;
                 if(flag) {
                     b[71].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[7][8]++;
                 }
                 else {
                     b[71].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[7][8]+=2;
                 }
@@ -1538,13 +1538,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 0;
                 if(flag) {
                     b[72].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[8][0]++;
                 }
                 else {
                     b[72].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[8][0]+=2;
                 }
@@ -1555,13 +1555,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 1;
                 if(flag) {
                     b[73].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[8][1]++;
                 }
                 else {
                     b[73].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[8][1]+=2;
                 }
@@ -1572,13 +1572,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 2;
                 if(flag) {
                     b[74].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[8][2]++;
                 }
                 else {
                     b[74].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[8][2]+=2;
                 }
@@ -1589,13 +1589,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 3;
                 if(flag) {
                     b[75].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[8][3]++;
                 }
                 else {
                     b[75].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[8][3]+=2;
                 }
@@ -1606,13 +1606,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 4;
                 if(flag) {
                     b[76].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[8][4]++;
                 }
                 else {
                     b[76].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[8][4]+=2;
                 }
@@ -1623,13 +1623,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 5;
                 if(flag) {
                     b[77].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[8][5]++;
                 }
                 else {
                     b[77].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[8][5]+=2;
                 }
@@ -1640,13 +1640,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 6;
                 if(flag) {
                     b[78].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[8][6]++;
                 }
                 else {
                     b[78].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[8][6]+=2;
                 }
@@ -1657,13 +1657,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 7;
                 if(flag) {
                     b[79].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[8][7]++;
                 }
                 else {
                     b[79].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[8][7]+=2;
                 }
@@ -1674,13 +1674,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 selected = 8;
                 if(flag) {
                     b[80].setText("O");
-                    player.setText("Current Player: 2");
+                    player.setText("Current Player: 2(x)");
                     player.setTextColor(Color.MAGENTA);
                     layout[8][8]++;
                 }
                 else {
                     b[80].setText("X");
-                    player.setText("Current Player: 1");
+                    player.setText("Current Player: 1(o)");
                     player.setTextColor(Color.RED);
                     layout[8][8]+=2;
                 }
